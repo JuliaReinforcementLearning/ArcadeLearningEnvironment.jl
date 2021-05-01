@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/JuliaReinforcementLearning/ArcadeLearningEnvironment.jl.svg?branch=master)](https://travis-ci.com/JuliaReinforcementLearning/ArcadeLearningEnvironment.jl)
+[![CI](https://github.com/JuliaReinforcementLearning/ArcadeLearningEnvironment.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/JuliaReinforcementLearning/ArcadeLearningEnvironment.jl/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/JuliaReinforcementLearning/ArcadeLearningEnvironment.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/JuliaReinforcementLearning/ArcadeLearningEnvironment.jl)
 
 # ArcadeLearningEnvironment.jl
