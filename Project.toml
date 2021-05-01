@@ -1,6 +1,6 @@
 name = "ArcadeLearningEnvironment"
 uuid = "b7f77d8d-088d-5e02-8ac0-89aab2acc977"
-version = "0.2.3"
+version = "0.2.4"
 
 [deps]
 ArcadeLearningEnvironment_jll = "52cbb755-00ff-5a24-b23e-8a91c598877e"
